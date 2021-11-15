@@ -35,4 +35,4 @@ Code has been updated to print the blockchain which is stored in a list data str
 
 The public key , private key and previous and current block hash is printed with each added and mined block. <br /><br />
 
-A Screenshot of the output has been uploaded in the reposistory as "output.JPG"<br />
+A Screenshot of the output has been uploaded in the reposistory as "output.PNG"<br />
